@@ -45,6 +45,7 @@ IndoorMS/
 - **img_dir:** Contains the multispectral images in TIFF format.
 - **ann_dir:** Contains the annotation masks in PNG format.
 - Each image in `img_dir` has a corresponding annotation mask in `ann_dir` with the same filename but different extension.
+- We found that image number 29 had an error and has been removed from the provided dataset.
 
 ## Citation
 
