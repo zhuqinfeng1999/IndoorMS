@@ -1,4 +1,5 @@
-# IndoorMS: A Multispectral Dataset for Semantic Segmentation in Indoor Scene Understanding
+# [IndoorMS: A Multispectral Dataset for Semantic Segmentation in Indoor Scene Understanding](https://doi.org/10.1109/JSEN.2025.3559348)
+This is the official repository for "IndoorMS: A Multispectral Dataset for Semantic Segmentation in Indoor Scene Understanding". {[IEEE](https://doi.org/10.1109/JSEN.2025.3559348)}
 
 ## Abstract
 
