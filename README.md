@@ -17,8 +17,8 @@ Indoor scene understanding is a critical task in computer vision, traditionally 
 
 The IndoorMS dataset, including multispectral images, annotations, pseudo-color images, and reference cell phone images, is available for download:
 
-- Full Dataset (Google Drive)
-- Pseudo-color and Reference Images (Google Drive)
+- Full Dataset ([Google Drive](https://drive.google.com/file/d/1BRh-zHUutaBC7nVEeI8lb3-zYMeUy4Wi/view?usp=sharing))
+- Pseudo-color and Reference Images ([Google Drive](https://drive.google.com/file/d/1AZFih0HtUTrf3_Tturl9yTlLfIIdCBWY/view?usp=sharing))
 
 ## Dataset Structure
 
